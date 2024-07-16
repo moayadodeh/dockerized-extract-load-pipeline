@@ -1,0 +1,1 @@
+COPY {table_name} FROM stdin WITH CSV HEADER
