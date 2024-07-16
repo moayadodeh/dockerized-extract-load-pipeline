@@ -18,5 +18,6 @@ This project aim to extract data every certain time from mysql database on a ser
 
   
 ## Feel free to use any part of the project 
-### you need to edit create your own .env file
+### you need to create your own .env file
+### add your user connectio to the docker-compose
 ### and customize the sql queries depending on your case
