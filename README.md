@@ -6,8 +6,9 @@ This project aim to extract data every certain time from mysql database on a ser
 - the new data may be new
 - or an updated data
 - so I had to choose the best solution to handle it
--
--
+
+
+
 # As you may see in el_class.py => load_postgres function: 
 - there are two solutions:
 - B: which delete all the union rows from postgres database then insert all the data
